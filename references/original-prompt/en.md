@@ -1,17 +1,17 @@
-# XXD Panel 085 · Faithful reading translation
+# XXD Panel 085 Original Prompt · English Reading Translation
 
-请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+Turn each photograph I upload into a separate premium design poster. Do not combine multiple images; output each photograph separately. Use an overall 3:4 portrait composition, with the upper and lower regions kept at a strict 1:1 height ratio, each occupying 50% of the image.
 
-上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+Retain the original photograph in the upper half, preserving the subject's identity, structure, pose, authentic texture, natural light and shadow, and original colour atmosphere. Apply only subtle, premium colour grading to give it the quality of an art magazine, independent publication, or exhibition image. The surrounding environment may be extended naturally to fit the aspect ratio, but the subject must not be stretched, distorted, or altered.
 
-下半部分提取照片中最具识别性的**主体、轮廓、姿态、材质关系与叙事结构**，重构为极简的**手工微缩舞台 / 收藏级立体封面**。不要写实复制照片，而是只保留最关键的身份特征与空间关系，用黏土、毛毡、手剪纸、线绳、纸板和少量哑光塑形材料重新搭建，使复杂场景被压缩成一个简洁、安静但一眼可识别的微缩装置。
+In the lower half, extract the photograph's most recognisable **subject, silhouette, pose, material relationships, and narrative structure**, and reconstruct them as a minimal **handmade miniature stage / collectible three-dimensional cover**. Do not reproduce the photograph realistically. Retain only the most essential identity traits and spatial relationships, rebuilding them with clay, felt, hand-cut paper, string, cardboard, and a small amount of matte modelling material. Compress the complex scene into a simple, quiet miniature installation that remains instantly recognisable.
 
-主体控制在下半部分约 **20%–30%**，居中偏下或根据原图重心轻微偏移，四周保留大量留白。构图重视视觉重心、尺度关系、正负形、层次与呼吸感，不填满场景，也不堆砌装饰；只加入极少量真正能够支撑主体叙事的环境元素，使其像被独立陈列在艺术出版物页面中的小型舞台。
+Keep the subject to approximately **20%–30%** of the lower half, centred low or shifted slightly according to the photograph's centre of gravity, with abundant negative space around it. Prioritise visual balance, scale relationships, positive and negative shapes, layering, and breathing room. Do not fill the scene or accumulate decoration; add only the very few environmental elements that genuinely support the subject's narrative, so it resembles a small stage independently displayed on the page of an art publication.
 
-材质必须具有真实手工作品的触感：保留黏土的轻微指纹与塑形痕迹、毛毡纤维、纸张厚度、手剪边缘、线绳弯曲和纸板接缝，允许轻微不对称、歪斜与制作误差。整体表面以哑光、柔和、细腻为主，可有非常轻的自然阴影建立层次，但不要出现光滑CG、塑料反光或过度精致的3D渲染感。
+The materials must have the tactile quality of a real handmade object. Preserve slight fingerprints and modelling marks in the clay, felt fibres, paper thickness, hand-cut edges, bent string, and cardboard seams. Allow slight asymmetry, crookedness, and fabrication error. Keep surfaces mostly matte, soft, and delicate, with only very subtle natural shadows to establish layers. Avoid glossy CG, plastic reflections, and an excessively polished 3D-rendered appearance.
 
-配色从上方照片中提取最有辨识度、最有生命力的颜色重新调制，减少颜色数量并适度提亮、提纯，使其更干净、温暖、轻盈。背景根据原图综合色温智能匹配为极浅、接近白色的柔和底色，让材料本身成为视觉重点；局部可保留一两处较鲜明的原图特征色作为记忆锚点，避免灰脏、暗沉、颜色过多和廉价糖果感。
+Extract and retune the most recognisable and life-filled colours from the upper photograph. Reduce the number of colours and moderately increase their brightness and purity, making them cleaner, warmer, and lighter. Match the background intelligently to the photograph's overall colour temperature with an extremely pale, near-white soft ground, letting the materials themselves become the visual focus. Retain one or two brighter signature colours from the original as memory anchors where appropriate. Avoid muddy grey, darkness, too many colours, and a cheap candy-like look.
 
-文字少量介入，根据照片本身自由提炼简短标题、词句或微型注释，不固定语种与信息格式。文字可处理成**小型贴纸、压印标签、手切纸片或低调印刷标注**，与微缩装置形成自然关系；字号小、位置克制、留白充足，像独立出版物和艺术档案中的精致说明，不使用乱码、伪文字或复杂信息栏。
+Let a small amount of text enter freely, distilling a concise title, phrase, or micro-annotation from the photograph without fixing its language or information format. Treat the text as a **small sticker, embossed label, hand-cut paper slip, or understated printed notation** that relates naturally to the miniature installation. Keep the type small, restrained, and surrounded by generous space, like a refined caption in an independent publication or art archive. Do not use garbled text, pseudo-writing, or complex information panels.
 
-整体呈现应像**独立出版物封面、艺术展览海报、收藏级视觉研究页与手工模型摄影**的结合：安静、现代、克制、精致、有真实材料温度，同时保持明确的主体叙事和高级留白。避免儿童玩具广告、廉价卡通、过度可爱、主体过大、背景复杂、照片复制、纯3D渲染、光滑数字插画、塑料质感、颜色过多、文字乱码、水印和模板海报感。
+The overall result should combine the character of an **independent-publication cover, art-exhibition poster, collectible visual-study page, and handmade model photograph**: quiet, modern, restrained, refined, and warmed by real materials, while maintaining a clear subject narrative and premium negative space. Avoid children's-toy advertising, cheap cartooning, excessive cuteness, an oversized subject, complex backgrounds, photographic copying, pure 3D rendering, smooth digital illustration, plastic texture, too many colours, garbled text, watermarks, and template-poster styling.
