@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 085
+# 🦁 XXD Panel 085｜Handmade Model Journal
 
 ### Compress the photograph into a hand-built miniature stage held inside generous whitespace
 

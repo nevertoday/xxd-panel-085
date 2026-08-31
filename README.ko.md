@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 085
+# 🦁 XXD Panel 085｜수제 모형 저널
 
 ### 사진을 넓은 여백 속 손수 만든 미니어처 무대로
 

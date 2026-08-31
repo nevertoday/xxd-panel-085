@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 085
+# 🦁 XXD Panel 085｜手作模型志
 
 ### 把照片压缩成一座留白中的手工微缩舞台
 

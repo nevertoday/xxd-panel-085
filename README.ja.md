@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 085
+# 🦁 XXD Panel 085｜手作り模型手帳
 
 ### 写真を大きな余白に置かれた手作りの微縮舞台へ
 
