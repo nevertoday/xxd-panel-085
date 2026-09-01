@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 085 プロジェクトバナー" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 085｜手作り模型手帳
