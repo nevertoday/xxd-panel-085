@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 085｜Handmade Model Journal: compresses the subject, materials and story of a photo into a small, quiet handmade miniature stage built from clay, felt, hand-cut paper, string, cardboard and a little matte modelling material, keeping fingerprints, fibres, hand-cut edges and seams on soft matte surfaces; the model fills only about 20–30% of the area, sitting low-centre with lots of whitespace on a very pale matched ground, in fewer, cleaner photo-derived colours with one or two vivid memory accents, and a short title or note made as a tiny sticker, pressed label, hand-cut paper tag or quiet printed caption. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-085 or asks for clay-and-felt miniature, handmade diorama, papercraft model or crafted collectible cover art from a photo.",
+  "short_description": "手作模型志：用黏土、毛毡、手剪纸和线绳，把照片压成留白中的一座小小手工舞台",
+  "zh-CN": {
+    "name": "手作模型志",
+    "tagline": "用黏土、毛毡、手剪纸和线绳，把照片搭成大片留白里一座小小的手工舞台。",
+    "look": "照片的主体和关键空间关系被重新搭成一件小型手工装置，材料是黏土、毛毡、手剪纸、线绳、纸板和一点哑光塑形材料，看得见指纹、毛毡纤维、纸张厚度、剪刀边、弯曲的线和纸板接缝，还有一点歪斜。它只占画面约 20%–30%，放在中间偏下，四周是大片接近白色的浅底。表面哑光柔和，只有很淡的自然阴影；颜色减少、提亮，留一两处原照片的鲜明颜色作记忆点。标题或注释做成小贴纸、压印标签或手切纸片，字很小。",
+    "traits": [
+      "黏土",
+      "毛毡",
+      "手剪纸",
+      "线绳",
+      "哑光材料",
+      "20–30%主体"
+    ],
+    "good": [
+      "单一、造型可爱又好认的主体：一只猫、一辆小车、一座小房子、一盆植物",
+      "可以缩成小场景的画面：长椅上的人、小船和码头、帐篷和篝火",
+      "有明确材质感的物件：毛衣、木椅、陶杯、一束花"
+    ],
+    "poor": [
+      "需要大尺寸主体或填满画面的需求：主体只占约 20%–30%",
+      "元素很多的复杂场景：城市全景、人群、热闹市集",
+      "想要儿童玩具广告、光滑 3D 渲染、塑料反光或过度可爱卡通的效果"
+    ]
+  },
+  "en": {
+    "name": "Handmade Model Journal",
+    "tagline": "Builds your photo into a tiny handmade stage of clay, felt, cut paper and string, set in wide whitespace.",
+    "look": "The photo's subject and key spatial relationships are rebuilt as a small handmade installation in clay, felt, hand-cut paper, string, cardboard and a little matte modelling material, with visible fingerprints, felt fibres, paper thickness, scissor edges, bent string, board seams and a slight lean. It fills only about 20–30% of the area, placed low-centre, surrounded by a broad near-white pale ground. Surfaces are soft and matte with only faint natural shadow, and colours are fewer and brighter, keeping one or two vivid colours from the photo as memory points. A title or note is made as a tiny sticker, pressed label or hand-cut paper tag in small type.",
+    "traits": [
+      "Clay",
+      "Felt",
+      "Hand-cut paper",
+      "String",
+      "Matte materials",
+      "Subject at 20–30%"
+    ],
+    "good": [
+      "A single subject that is charming and easy to recognise: a cat, a small car, a little house, a potted plant",
+      "Scenes that shrink into a tiny set: a person on a bench, a boat at a jetty, a tent by a campfire",
+      "Objects with a clear material feel: a jumper, a wooden chair, a ceramic cup, a bunch of flowers"
+    ],
+    "poor": [
+      "Requests for a large subject that fills the frame, since the model takes up only about 20–30%",
+      "Complex scenes with many elements: city panoramas, crowds, busy markets",
+      "Looks like toy advertising, smooth 3D rendering, shiny plastic or overly cute cartoons"
+    ]
+  },
+  "ja": {
+    "name": "手作り模型手帳",
+    "tagline": "写真を、粘土、フェルト、切り紙、糸で作った小さな手作りの舞台にして、広い余白の中に置きます。",
+    "look": "写真の主役と大事な空間の関係を、粘土、フェルト、手で切った紙、糸、厚紙、少しのマットな造形材で小さな手作りの装置として組み直します。指の跡、フェルトの繊維、紙の厚み、はさみの切り口、曲がった糸、厚紙の継ぎ目、少しの傾きが見えます。装置は画面のおよそ 20〜30% だけを占め、中央やや下に置かれ、まわりにはほぼ白の淡い地が広がります。表面は柔らかくマットで、影はごく薄い自然なものだけ。色は数を減らして明るくし、写真の鮮やかな色を一、二か所だけ記憶の手がかりとして残します。タイトルや注記は小さなシール、型押しのラベル、手で切った紙片にして、文字は小さく置きます。",
+    "traits": [
+      "粘土",
+      "フェルト",
+      "手で切った紙",
+      "糸",
+      "マットな素材",
+      "主役は20〜30%"
+    ],
+    "good": [
+      "かわいらしく見分けやすい一つの主役：猫、小さな車、小さな家、鉢植え",
+      "小さな場面に縮められる写真：ベンチの人、小舟と桟橋、テントとたき火",
+      "素材感のはっきりした物：セーター、木の椅子、陶器のカップ、花束"
+    ],
+    "poor": [
+      "主役を大きく画面いっぱいにしたい場合（模型は約 20〜30% しか占めません）",
+      "要素の多い複雑な場面：都市の全景、人混み、にぎやかな市場",
+      "おもちゃの広告、なめらかな 3D レンダリング、光るプラスチック、かわいすぎる漫画のような仕上がり"
+    ]
+  },
+  "ko": {
+    "name": "수제 모형 저널",
+    "tagline": "사진을 점토, 펠트, 오린 종이, 실로 만든 작은 수제 무대로 꾸며 넓은 여백 속에 놓습니다.",
+    "look": "사진의 주인공과 핵심 공간 관계를 점토, 펠트, 손으로 오린 종이, 실, 판지, 약간의 무광 조형 재료로 작은 수제 설치물처럼 다시 만듭니다. 손자국, 펠트 섬유, 종이 두께, 가위로 자른 가장자리, 휘어진 실, 판지 이음매, 살짝 기운 모습이 보입니다. 설치물은 화면의 약 20~30%만 차지하며 가운데보다 조금 아래에 놓이고, 주변은 거의 흰 연한 바탕이 넓게 펼쳐집니다. 표면은 부드러운 무광이고 그림자는 아주 옅은 자연광 그림자뿐이며, 색은 가짓수를 줄이고 밝혀 원래 사진의 선명한 색 한두 곳만 기억의 단서로 남깁니다. 제목이나 메모는 작은 스티커, 눌러 찍은 라벨, 손으로 자른 종이 조각으로 만들어 작은 글씨로 둡니다.",
+    "traits": [
+      "점토",
+      "펠트",
+      "손으로 오린 종이",
+      "실",
+      "무광 재료",
+      "주인공 20~30%"
+    ],
+    "good": [
+      "귀엽고 알아보기 쉬운 단일 주인공: 고양이, 작은 자동차, 작은 집, 화분",
+      "작은 세트로 줄일 수 있는 장면: 벤치에 앉은 사람, 작은 배와 선착장, 텐트와 모닥불",
+      "재질감이 분명한 물건: 스웨터, 나무 의자, 도자기 컵, 꽃다발"
+    ],
+    "poor": [
+      "주인공을 크게 화면 가득 채우고 싶은 경우(모형은 약 20~30%만 차지합니다)",
+      "요소가 많은 복잡한 장면: 도시 전경, 인파, 북적이는 시장",
+      "장난감 광고, 매끈한 3D 렌더링, 반짝이는 플라스틱, 지나치게 귀여운 만화 같은 느낌"
+    ]
+  },
+  "ar": {
+    "name": "دفتر المجسمات اليدوية",
+    "tagline": "يبني صورتك خشبة مسرح يدوية صغيرة من الصلصال واللبّاد والورق المقصوص والخيوط، وسط فراغ واسع.",
+    "look": "يُعاد بناء العنصر الرئيسي وأهم العلاقات المكانية في الصورة كمجسّم يدوي صغير من الصلصال واللبّاد والورق المقصوص باليد والخيوط والكرتون وقليل من مواد التشكيل المطفأة، تظهر فيه بصمات الأصابع وألياف اللبّاد وسماكة الورق وحواف المقص والخيوط المنحنية ووصلات الكرتون وميل خفيف. لا يشغل إلا نحو 20–30% من المساحة، ويوضع في الوسط مائلاً إلى الأسفل، تحيط به أرضية فاتحة قريبة من الأبيض. الأسطح ناعمة مطفأة بظل طبيعي خافت فقط، والألوان أقل عدداً وأكثر إشراقاً، مع لون أو لونين زاهيين من الصورة كعلامة للذكرى. ويُصنع العنوان أو الملاحظة كملصق صغير أو بطاقة مكبوسة أو قصاصة ورق مقصوصة باليد بحرف صغير.",
+    "traits": [
+      "صلصال",
+      "لبّاد",
+      "ورق مقصوص باليد",
+      "خيوط",
+      "مواد مطفأة",
+      "العنصر بنسبة 20–30%"
+    ],
+    "good": [
+      "عنصر واحد لطيف سهل التعرّف: قطة، سيارة صغيرة، بيت صغير، نبتة في أصيص",
+      "مشاهد يمكن تصغيرها إلى ديكور صغير: شخص على مقعد، قارب عند رصيف، خيمة قرب نار المخيم",
+      "أشياء واضحة الخامة: كنزة صوف، كرسي خشبي، فنجان خزفي، باقة زهور"
+    ],
+    "poor": [
+      "طلب عنصر كبير يملأ الإطار، إذ لا يشغل المجسّم إلا نحو 20–30%",
+      "مشاهد معقدة بعناصر كثيرة: بانوراما المدن، الحشود، الأسواق المزدحمة",
+      "مظهر إعلانات الألعاب أو التصيير ثلاثي الأبعاد الأملس أو البلاستيك اللامع أو الرسوم الكرتونية المفرطة اللطافة"
+    ]
+  }
+}

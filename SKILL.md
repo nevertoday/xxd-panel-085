@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-085
-description: "Create XXD Panel 085 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-085 or requests the exact Panel 085 style."
+description: "XXD Panel 085｜Handmade Model Journal: compresses the subject, materials and story of a photo into a small, quiet handmade miniature stage built from clay, felt, hand-cut paper, string, cardboard and a little matte modelling material, keeping fingerprints, fibres, hand-cut edges and seams on soft matte surfaces; the model fills only about 20–30% of the area, sitting low-centre with lots of whitespace on a very pale matched ground, in fewer, cleaner photo-derived colours with one or two vivid memory accents, and a short title or note made as a tiny sticker, pressed label, hand-cut paper tag or quiet printed caption. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-085 or asks for clay-and-felt miniature, handmade diorama, papercraft model or crafted collectible cover art from a photo."
 ---
 
 # XXD Panel 085
